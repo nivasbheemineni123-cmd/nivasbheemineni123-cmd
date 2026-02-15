@@ -1,71 +1,41 @@
-# Hi there, I'm Nivas Bheemineni 👋
+# Hey there! I'm Nivas Bheemineni 👋
 
-🎓 **Data Science Student** | Passionate about turning data into actionable insights
+🎓 **Computer Science Student** | 📈 **Forex Algo Trader** | 🤖 **EA Developer**
 
-I'm a data science student with hands-on experience in machine learning, statistical analysis, and data visualization. I love building end-to-end ML pipelines and exploring how data can solve real-world problems.
-
----
-
-### 🔧 Tech Stack
-
-**Languages & Libraries**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Deep Learning & AI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**Visualization & BI**
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-
-**Cloud & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+I'm passionate about combining programming with financial markets. I build automated trading systems (Expert Advisors) for Forex, focusing on strategies that work in real market conditions.
 
 ---
 
-### 📌 Featured Projects
+### 🔭 What I'm Working On
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🏠 [House Price Prediction](#) | End-to-end ML pipeline with EDA, feature engineering & model comparison | Python, Scikit-Learn, Pandas |
-| 📊 [Exploratory Data Analysis](#) | In-depth analysis & visualization of real-world datasets | Python, Matplotlib, Seaborn |
-| 🧠 [Deep Learning Classification](#) | Image or text classification using neural networks | TensorFlow / PyTorch |
-| 🗄️ [SQL Data Analysis](#) | Complex queries & insights from relational databases | SQL, PostgreSQL |
+- Developing **Expert Advisors (EAs)** for Forex markets using algorithmic strategies
+- Building and backtesting **range-bound trading systems** for the Asian session
+- Exploring **quantitative analysis** and market microstructure with Python
 
-> *🔗 Links will be updated as projects are published — stay tuned!*
+### 🛠️ Tech & Tools
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=for-the-badge&logo=metatrader5&logoColor=white)
+![MetaTrader](https://img.shields.io/badge/MetaTrader_5-0089CF?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📊 Trading & Strategy Focus
+
+- **Session:** Asian session range-bound strategies
+- **Pair Focus:** EUR/USD
+- **Approach:** Automated execution via EAs with strict risk management
+- **Tools:** MetaTrader 5, Python for data analysis & backtesting
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivasbheemineni123-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivasbheemineni123-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
----
+![Nivas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivasbheemineni123-cmd&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivas-bheemineni-4b5525307/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivasbheemieni123@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nivasbheemineni123-cmd)
 
 ---
 
-<p align="center">
-  <em>Open to internships and entry-level Data Science / ML roles — let's build something amazing together!</em>
-</p>
+> *"The goal of a successful trader is to make the best trades. Money is secondary."* — Alexander Elder
