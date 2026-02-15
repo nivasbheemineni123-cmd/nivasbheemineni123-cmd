@@ -78,7 +78,7 @@ me = QuantDeveloper()
   <img src="https://img.shields.io/badge/Alpaca-FFCD00?style=for-the-badge&logo=alpacadotmarkets&logoColor=black" />
   <img src="https://img.shields.io/badge/Interactive%20Brokers-D71920?style=for-the-badge&logo=interactivebrokers&logoColor=white" />
   <img src="https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black" />
-  <img src="https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
+ 
 </p>
 
 ### 📊 Visualization & Analytics
