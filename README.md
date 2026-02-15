@@ -10,37 +10,38 @@
 
 ## About Me
 
-```yaml
-"""
-    Nivas Bheemineni
-    ─────────────────────────────────────────────────────────────
-    Quantitative Finance & Algorithmic Trading
 
-    I am a Data Science student based in the United Kingdom with
-    a deep passion for quantitative finance and algorithmic trading.
-    
-    My work focuses on designing, building, and backtesting systematic
-    trading strategies using Python — combining statistical analysis,
-    machine learning, and financial theory to extract alpha from
-    equity and forex markets.
-    
-    I am actively seeking opportunities in quantitative development,
-    algorithmic trading, and financial engineering.
-    ─────────────────────────────────────────────────────────────
+ 
+```css
+# ═══════════════════════════════════════════════════════════════
+#  Nivas Bheemineni
+#  Quantitative Finance & Algorithmic Trading
+# ═══════════════════════════════════════════════════════════════
 
-    Areas of Expertise:
-    
-    ◆  Algorithmic Trading Strategy Development
-    ◆  Quantitative Analysis & Statistical Modeling
-    ◆  Options & Derivatives Pricing (Black-Scholes, Monte Carlo)
-    ◆  Machine Learning for Financial Markets
-    ◆  Risk Management & Portfolio Optimization
-    ◆  Technical Analysis & Signal Generation
-    ◆  Broker API Integration & Execution Systems
-    
-    Markets:  Equities  |  Forex
-    ─────────────────────────────────────────────────────────────
+about = """
+I am a Data Science student based in the United Kingdom with
+a deep passion for quantitative finance and algorithmic trading.
+
+My work focuses on designing, building, and backtesting systematic
+trading strategies using Python — combining statistical analysis,
+machine learning, and financial theory to extract alpha from
+equity and forex markets.
+
+I am actively seeking opportunities in quantitative development,
+algorithmic trading, and financial engineering.
 """
+
+expertise = [
+    "Algorithmic Trading Strategy Development",
+    "Quantitative Analysis & Statistical Modeling",
+    "Options & Derivatives Pricing (Black-Scholes, Monte Carlo)",
+    "Machine Learning for Financial Markets",
+    "Risk Management & Portfolio Optimization",
+    "Technical Analysis & Signal Generation",
+    "Broker API Integration & Execution Systems",
+]
+
+markets = ["Equities", "Forex"]
 ```
 
 <!-- Animated Divider -->
